@@ -12,7 +12,7 @@ Team Performance: Data at the team level, including performance statistics and c
 # Project Objective
 The main objective of this project is to analyze IPL match data and derive useful insights related to:
 
-# rformance comparison
+# Performance comparison
 Team performance over time
 Trends and patterns in match results
 Data-driven decisions for fantasy cricket, betting, and performance analysis
